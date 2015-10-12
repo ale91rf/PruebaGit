@@ -1,3 +1,3 @@
 # PruebaGit
 
-Hola, prueba
+Hola, prueba.
